@@ -19,3 +19,6 @@ Parameters such as power and speed are adjusted based on material thickness.
 ## 🚀 Future Improvements
 - More complex assemblies  
 - Parametric designs  
+
+## 🧩 Acrylic Box Project
+Laser-cut acrylic box designed for structural assembly.
